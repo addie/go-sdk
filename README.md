@@ -95,7 +95,11 @@ Please use the [issues page](https://github.com/blend/go-sdk/issues) to report a
 This repo is maintained by a core group of [Blend](https://blend.com) employees.
 
 This list includes (ordered alpha by username):
+- [@addie](https://github.com/addie)
 - [@akarimcheese](https://github.com/akarimcheese)
 - [@alee101](https://github.co/alee101)
 - [@gcarling](https://github.com/gcarling)
+- [@igmor](https://github.com/igmor)
+- [@Justinfan827](https://github.com/Justinfan827)
+- [@KaplanAlex](https://github.com/KaplanAlex)
 - [@mat285](https://github.com/mat285)
